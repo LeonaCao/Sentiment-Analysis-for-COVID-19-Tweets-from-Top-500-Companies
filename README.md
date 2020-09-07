@@ -5,3 +5,5 @@ This is an ongoing project analyzing tweets from top 500 companies from late Jan
 The first step is data scraping to gather tweets relevant to COVID-19 from the top 500 companies along with their comments. (https://github.com/MeixianWang2/Twitter-Scraping-comments/tree/master/get_reply)
 
 Then we are able to conduct sentiment analysis to the data we collected.
+
+In the naive-bayes-classifier script I built a Naive Bayes Classification model to detect the sentiment polarity of the entire tweets data at a high level. (Source: https://towardsdatascience.com/creating-the-twitter-sentiment-analysis-program-in-python-with-naive-bayes-classification-672e5589a7ed)
